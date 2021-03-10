@@ -1,4 +1,4 @@
-"Hello, World!"
+"Hello,
 
 형상관리
 first commit
