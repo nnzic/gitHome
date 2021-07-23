@@ -1,8 +1,0 @@
-집에서 복습
-
-형상관리
-first commit
-
-https://github.com/username/저장소이름
-
-https://github.com/nnzic/gitTest(.git 무시가능)
